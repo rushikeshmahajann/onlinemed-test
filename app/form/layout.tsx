@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import ReviewsSection from "@/components/reviews-section";
-import Button from "@/components/button";
+
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
